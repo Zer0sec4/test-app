@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          LEARN HOW TO PLAY BASKETBALL LIKE MICAHEL JORDAN USING <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Next.js!</a>
+        LEARN HOW TO PLAY BASKETBALL LIKE MICAHEL JORDAN USING <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Next.js!</a>
         </h1>
 
         <img src="https://fivethirtyeight.com/wp-content/uploads/2020/04/GettyImages-52811398-1-e1587133785125.jpg?w=575" />
