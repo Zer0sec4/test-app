@@ -11,8 +11,11 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to michael jordan made by drdre <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Next.js!</a>
+          LEARN HOW TO PLAY BASKETBALL LIKE MICAHEL JORDAN USING <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">Next.js!</a>
         </h1>
+
+        <img src="https://fivethirtyeight.com/wp-content/uploads/2020/04/GettyImages-52811398-1-e1587133785125.jpg?w=575" />
+
 
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
@@ -36,17 +39,6 @@ export default function Home() {
             <h3>Examples &rarr;</h3>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
-           <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Michael_Jordan_crying.jpg" />
           
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
